@@ -20,7 +20,18 @@ if (suEdad < 13) {
 		alert("es adolescente");
 	}
 }
+	/*
+	var mensaje 
 
+	mensaje = "es niño"
+
+	mensaje = "es adulto"
+
+	mensaje = "es adolescente"
+
+	alert(mensaje)
+
+	*/
 
 
 
